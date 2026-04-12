@@ -8,4 +8,4 @@ Dobrovolný hasičský sbor v Rakvicích byl založený v roce 1885 a řadí se 
 
 **Aktuality z naší činnosti najdete na naší [FB stránce Hasiči Rakvice](https://www.facebook.com/HasiciRakvice).**
 
-![](/images/20210829_141801-scaled.jpg)
+![](images/20210829_141801-scaled.jpg)

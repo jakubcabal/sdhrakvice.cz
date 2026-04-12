@@ -6,7 +6,7 @@ weight: 3
 
 JSDHO Rakvice (Jednotka Sboru Dobrovolných Hasičů Obce Rakvice) je v plošném pokrytí jednotkami požární ochrany zařazena jako jednotka kategorie JPO III/1, to znamená, že naše zásahová jednotka zabezpečuje výjezd družstva o zmenšeném početním stavu (1+3) do 10 minut od vyhlášení poplachu. Poplach je vyhlašován automaticky sirénou a SMS zprávou na mobilní telefony jednotlivých členů zásahové jednotky.
 
-![JSDHO Rakvice – výcvik na V.D. Nové Mlýny](/images/IMG_20120310_123620.jpg)
+![JSDHO Rakvice – výcvik na V.D. Nové Mlýny](images/IMG_20120310_123620.jpg)
 
 **Rozdíl mezi SDH a JSDHO:**
 
