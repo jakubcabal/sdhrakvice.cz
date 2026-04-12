@@ -1,4 +1,55 @@
 baseURL = 'https://sdhrakvice.cz/'
 languageCode = 'cs'
 title = 'Hasiči Rakvice'
-theme = "PaperMod"
+theme = "hugo-bearcub"
+copyright = "SH ČMS – Sbor dobrovolných hasičů Rakvice"
+
+defaultContentLanguage = "cs"
+enableRobotsTXT = true
+
+[languages]
+  [languages.cs]
+    title = 'Hasiči Rakvice'
+    languageName = "cs 🇺🇸"
+    LanguageCode = "cs"
+    contentDir = "content"
+    [languages.cs.params]
+      madeWith = "Vytvořeno pomocí Hugo a [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    # This allows Bear Cub to use a variation of Dracula that is more accessible
+    # to people with poor eyesight. For more information about color contrast
+    # and accessibility, see https://web.dev/color-and-contrast-accessibility/
+    noClasses = false
+
+[params]
+  description = "SDH Rakvice: Sbor dobrovolných hasičů založený v roce 1885"
+  #favicon = "images/favicon.png"
+
+  # This title is used as the site_name on the Hugo's internal opengraph
+  # structured data template
+  title = "Bear Cub"
+
+  dateFormat = "2006-01-02"
+  hideUntranslated = false
+
+  # (EXPERIMENTAL) This theme has two options for its CSS styles: "original" and
+  # "herman". The former is what you see on Bear Cub's demo (an optimized
+  # version of Hugo Bear Blog), while the latter has a more modern look based on
+  # Herman Martinus's version of the Blogster Minimal theme for Astro.
+  themeStyle = "herman"
+
+  # (EXPERIMENTAL) This theme is capable of dynamically generating social cards
+  # for posts that don't have `images` defined in their front matter; By setting
+  # `generateSocialCard` to false, you can prevent this behavior. For more
+  # information see layouts/partials/social_card.html
+  generateSocialCard = true
+
+[outputs]
+  home = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]

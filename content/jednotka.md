@@ -6,10 +6,9 @@ weight: 3
 
 JSDHO Rakvice (Jednotka Sboru Dobrovolných Hasičů Obce Rakvice) je v plošném pokrytí jednotkami požární ochrany zařazena jako jednotka kategorie JPO III/1, to znamená, že naše zásahová jednotka zabezpečuje výjezd družstva o zmenšeném početním stavu (1+3) do 10 minut od vyhlášení poplachu. Poplach je vyhlašován automaticky sirénou a SMS zprávou na mobilní telefony jednotlivých členů zásahové jednotky.
 
-JSDHO Rakvice - výcvik na V.D. Nové Mlýny
-JSDHO Rakvice – výcvik na V.D. Nové Mlýny
+![JSDHO Rakvice – výcvik na V.D. Nové Mlýny](/images/IMG_20120310_123620.jpg)
 
-Rozdíl mezi SDH a JSDHO:
+**Rozdíl mezi SDH a JSDHO:**
 
 SDH (Sbor Dobrovolných Hasičů) – dobrovolná organizace (podobně jako TJ Sokol), která je postavena na společném zájmu několika osob. Náplní činnosti je PREVENCE v oblasti požární ochrany, v dnešní době také požární sport a jiné společenské a kulturní akce. V čele SDH stojí starosta sboru a výkonným orgánem je výkonný výbor sboru. Jedná se o samostatně hospodařící organizaci.
 
