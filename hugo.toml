@@ -1,4 +1,4 @@
-baseURL = 'https://sdhrakvice.cz/'
+baseURL = 'https://jakubcabal.github.io/sdhrakvice.cz/'
 languageCode = 'cs'
 title = 'Hasiči Rakvice'
 theme = "hugo-bearcub"
